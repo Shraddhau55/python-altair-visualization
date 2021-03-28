@@ -1,5 +1,5 @@
 # python-altair-visualization
-This project explains how to install and use the Altair visualization library in Python <br>
+This project uses the "topfiftyspotify" dataset to explain how to install and use the Altair visualization library in Python <br>
 
 - This repository contains 2 files <br>
 1. The altair instruction notebook addresses errors/warnings that may be faced during the installation of the library <br>
